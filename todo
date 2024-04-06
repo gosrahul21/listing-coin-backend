@@ -1,0 +1,12 @@
+************ add promotion ********************
+1. create promotion
+
+1. added to cart, user can remove as well. when user delete promotion it will be deleted from db as well 
+
+2. now it will require us to create order then proceed for transaction
+
+3. before moving to transaction, we will create order with status pending
+
+4. once transaction is completed, we can process the order to paid. 
+
+5. attach the promotion to order and change status of promotion 
